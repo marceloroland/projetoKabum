@@ -39,7 +39,7 @@ public class Core {
             options.setExperimentalOption("prefs", prefs);
 
             webDriver = new ChromeDriver(options);
-            webDriver.manage().timeouts().implicitlyWait(5000, TimeUnit.MILLISECONDS);
+            webDriver.manage().timeouts().implicitlyWait(35000, TimeUnit.MILLISECONDS);
             webDriver.manage().window().maximize();
         }
     }
