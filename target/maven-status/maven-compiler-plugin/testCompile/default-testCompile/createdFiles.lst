@@ -1,0 +1,4 @@
+objects\MainPage.class
+runner\Runner.class
+support\Core.class
+stepdefs\MainPage.class
