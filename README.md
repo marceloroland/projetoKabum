@@ -38,8 +38,7 @@ Ter a variavel de ambiente JAVA_HOME definida \
 
 # Passo-a-passo:
 Realizar download do projeto de automação \
-Realizar download dos arquivos binarios do MAVEN no seguinte link -> https://maven.apache.org/download.cgi
-  -Binary zip archive	-> apache-maven-3.6.3-bin.zip
+Realizar download dos arquivos binarios do MAVEN no seguinte link -> https://downloads.apache.org/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip
 
 # Na variavel PATH adicionar o caminho:
 C:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin <- Caminho de exemplo
