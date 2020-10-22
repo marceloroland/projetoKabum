@@ -4,6 +4,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.junit.Test;
 import support.Core;
 
 import static objects.MainPage.*;
@@ -19,7 +20,6 @@ public class MainPage extends Core{
         navigate(arg0);
         print();
     }
-
     @When("O usuario realiza o login utilizando o usuario {string} e a senha {string}")
     public void oUsuarioRealizaOLoginUtilizandoOUsuarioEASenhaMarcelo(String arg0, String arg1) throws Throwable {
         click(BUTTON_LOGIN);
