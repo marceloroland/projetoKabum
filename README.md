@@ -26,6 +26,8 @@ Executar a classe Runner
 
 
 
+![alt text](https://raw.githubusercontent.com/marceloroland/projetoKabum/main/imgs_git/class_runner.png)
+
 
 
 # 2° Caminho <h1>
