@@ -11,10 +11,10 @@ Pré-requisitos:
 Ter java instalado no ambiente
 
 # Passo-a-passo:
-Realizar download da IDE IntelliJ (Ou outra IDE de preferencia, como Eclipse etc..)
-Realizar download do projeto de automação
-Importar o projeto
-Caso as dependencias não importem automaticamente ->Dentro da IDE com o projeto já importado, clicar com o botão direito no arquivo pom.xml -> maven -> Reload project
+Realizar download da IDE IntelliJ (Ou outra IDE de preferencia, como Eclipse etc..) \
+Realizar download do projeto de automação \
+Importar o projeto \
+Caso as dependencias não importem automaticamente ->Dentro da IDE com o projeto já importado, clicar com o botão direito no arquivo pom.xml -> maven -> Reload project 
 
 
 
@@ -33,11 +33,11 @@ Executar a classe Runner
 # 2° Caminho <h1>
   
 # Pré-requisitos:
-Ter java instalado no ambiente
-Ter a variavel de ambiente JAVA_HOME definida
+Ter java instalado no ambiente \
+Ter a variavel de ambiente JAVA_HOME definida \
 
 # Passo-a-passo:
-Realizar download do projeto de automação
+Realizar download do projeto de automação \
 Realizar download dos arquivos binarios do MAVEN no seguinte link -> https://maven.apache.org/download.cgi
   -Binary zip archive	-> apache-maven-3.6.3-bin.zip
 
