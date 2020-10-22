@@ -15,6 +15,7 @@ Realizar download da IDE IntelliJ (Ou outra IDE de preferencia, como Eclipse etc
 Realizar download do projeto de automação
 Importar o projeto
 Caso as dependencias não importem automaticamente ->Dentro da IDE com o projeto já importado, clicar com o botão direito no arquivo pom.xml -> maven -> Reload project
+![alt text](https://raw.githubusercontent.com/marceloroland/projetoKabum/main/imgs_git/reload_project.png)
 Executar a classe Runner
 
 
